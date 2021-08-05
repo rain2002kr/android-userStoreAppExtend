@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android-userStoreAppExtend</string>
+    <string name="home">홈</string>
+    <string name="my_page">나의 정보</string>
+    <string name="chat_list">채팅</string>
+
+</resources>
